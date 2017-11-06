@@ -1,1 +1,2 @@
-sem pridu vypocty
+% sem pridu vypocty
+% vypocty k mojej dizertacke
