@@ -1,5 +1,5 @@
 Nazov: este neviem
 Autor: XXX
 Pocet stran: YYY
-Vydavatel: STU
+Vydavatel: STU v Bratislave
 Matlab: vypocty.m
