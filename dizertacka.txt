@@ -1,5 +1,5 @@
 Nazov: este neviem
-Autor: Linda Hanulova
+Autor: XXX
 Pocet stran: 130
 Vydavatel: STU
 Matlab: vypocty.m
