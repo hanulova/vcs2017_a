@@ -1,0 +1,1 @@
+sem pridu vypocty
